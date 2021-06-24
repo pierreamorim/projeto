@@ -1,4 +1,4 @@
-#!/Users/pierre.amorim/cadastro /venv/bin/python
+#!/Users/pierre.amorim/dev/projeto/venv/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
